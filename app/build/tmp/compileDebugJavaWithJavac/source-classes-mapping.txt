@@ -1,0 +1,6 @@
+com/example/teddybrowser/databinding/ActivityMainBinding.java
+ com.example.teddybrowser.databinding.ActivityMainBinding
+com/example/teddybrowser/databinding/ActivitySplashBinding.java
+ com.example.teddybrowser.databinding.ActivitySplashBinding
+com/example/teddybrowser/BuildConfig.java
+ com.example.teddybrowser.BuildConfig
